@@ -1,0 +1,30 @@
+body {
+  background-color: #fbf9dd;
+}
+.container-fluid{
+  background-color: white;
+  border: 2px solid black;
+  max-width: 90%;
+  padding: 5px;
+}
+
+.page-header {
+  	background-color: #bee0e2;
+    border: 1px solid black;
+}
+
+.btn-vanilla {
+  background-color: #a3c6c2;
+  border: 1px solid black;
+  cursor: pointer;
+  white-space: normal;
+}
+
+.btn-vanilla:hover {
+    background-color: #86a9a5;
+}
+
+.btn-danger {
+    background-color: #bd865e;
+    border: 1px solid black;
+}
